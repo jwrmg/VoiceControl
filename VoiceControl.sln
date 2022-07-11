@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceControl", "VoiceControl\VoiceControl.csproj", "{5D9DDF15-CB24-472D-BC66-9D98813395D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceControlApplication", "VoiceControlApplication\VoiceControlApplication.csproj", "{A15EE3A6-4D8F-40E4-82DD-B3D049C2D2F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceControlApplication", "VoiceControlApplication\VoiceControlApplication.csproj", "{A15EE3A6-4D8F-40E4-82DD-B3D049C2D2F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
